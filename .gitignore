@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+.streamlit/
+*.egg-info/
+dist/
+build/
+.env
+venv/
+.venv/
+output/
+*.png
+*.jpeg
+*.jpg
+sl05ocy2ew7cuqw.pptx
